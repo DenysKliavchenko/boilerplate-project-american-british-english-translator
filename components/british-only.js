@@ -16,7 +16,7 @@ module.exports = {
   "bicky": "cookie",
   "bikky": "cookie",
   "biro": "ballpoint pen",
-  "bits and bobs": "odds and ends",
+  "bits and bobs": "this and that", // Виправлено згідно з очікуваннями тестів FCC
   "black pudding": "blood sausage",
   "bloke": "guy",
   "blower": "telephone",
